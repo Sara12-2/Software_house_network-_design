@@ -15,7 +15,7 @@ This project simulates a real-world **software house network** serving 5 departm
 | **Routing Method**  | Inter-VLAN Routing (Router-on-a-Stick)                  |
 | **Departments**     | 5 (Sales, HR, Q/A, Management, Server Room)             |
 | **Devices**         | 1 Router, 6 Switches, 20+ End Devices, 3 Servers        |
-| **Course**          | CS-512 Computer Networks — COMSATS University Islamabad |
+| **Course**          | CS-512 Computer Networks — University of layyah |
 
 ---
 
